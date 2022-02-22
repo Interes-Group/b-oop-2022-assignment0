@@ -1,5 +1,5 @@
 ﻿# Zadanie 0
-B-OOP 2021
+B-OOP 2022
 
 Jedná sa o nehodnotené, dobrovoľné zadanie, ktorého cieľom je poskytnúť možnosť osvojiť si prácu s verziovacím systémom git.
 
@@ -12,7 +12,7 @@ Jedná sa o nehodnotené, dobrovoľné zadanie, ktorého cieľom je poskytnúť 
 * Posledná nahraná verzia Vášho kódu v termíne uzavretia zadania je automaticky odovzdaná
 
 # Assignment 0
-B-OOP 2021
+B-OOP 2022
 
 This is an ungraded, voluntary assignment. Its purpose is to allow you to try out the git version control system.
 
